@@ -12,4 +12,3 @@ db.then(() => {
   console.log(`Server not run. Error: ${error.message}`);
   process.exit(1)
 })
-
