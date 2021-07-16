@@ -1,5 +1,4 @@
 const fs = require('fs').promises
-// const fs = require('fs.promises')
 
 const isAccessible = (path) => {
   return fs
